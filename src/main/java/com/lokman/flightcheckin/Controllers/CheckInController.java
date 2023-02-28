@@ -29,6 +29,6 @@ public class CheckInController {
 		
 		map.addAttribute("reservation", reservaton);
 		
-		return "reservationDetails";
+		return "displayReservationDetails";
 	}
 }
