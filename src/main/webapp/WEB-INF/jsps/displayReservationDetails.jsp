@@ -13,7 +13,7 @@
 	Departure city:${reservation.flight.departureCity}<br/> 
 	Arrival city:${reservation.flight.arrivalCity}<br/> 
 	Date of departure:${reservation.flight.dateOfDeparture}<br/>
-	Estimate departure time:${reservation.flight.estimatedDepartureTime}<br/>
+	
 
 	<h2>Passenger Details</h2>
 	First name: ${reservation.passenger.firstName}<br/>
