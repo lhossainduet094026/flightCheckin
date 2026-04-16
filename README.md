@@ -65,7 +65,7 @@ POST /reservations
 - Update reservation status (checked-in, baggage count)
 
 ---
-
+```
 ## 📂 Project Structure
 src/main/java/com/yourpackage/
 │
@@ -84,6 +84,7 @@ src/main/java/com/yourpackage/
 ├── startCheckIn.jsp
 ├── displayReservationDetails.jsp
 └── checkInConfirmation.jsp
+```
 
 ---
 
